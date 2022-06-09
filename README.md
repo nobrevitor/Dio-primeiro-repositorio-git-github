@@ -1,2 +1,3 @@
-# Dio-primeiro-repositorio-git-github
-Desafio de projeto primeiro repositório Git/Github
+# EVOLUÇÃO ESTUDOS DEV PLATAFORMA DIO # 💻
+## Desafio de projeto primeiro repositório Git/Github ##
+Repositório criado e atualizado
