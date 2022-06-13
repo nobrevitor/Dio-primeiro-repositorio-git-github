@@ -68,3 +68,15 @@
 - < img src="img/avartar.jpg" >
 - < img alt="Foto Vitor Nobre" >
 - [Comprimir img](https://tinypng.com/)
+
+## Listas
+
+- < ul > Ordem dos itens não é importante
+  - Item 1
+  - Item 2
+
+- < ol > Ordem dos intens é importante
+  - 1.Item 1
+  - 2.Item 3
+
+- < li > Item da lista
